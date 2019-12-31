@@ -11,7 +11,7 @@ public class MyClass {
 	 
 	 public static void main(String[]args) {
 		 MyClass mc = new MyClass();
-		 mc.add(10, 20);
+		 System.out.println(mc.add(10, 20));
 		 
 	 }
 	
